@@ -1271,15 +1271,15 @@
   "variable": [
     {
       "key": "baseUrl",
-      "value": "http://localhost:8080"
+      "value": "https://wuzapi-fupj.onrender.com"
     },
     {
       "key": "token",
-      "value": "your_token_here"
+      "value": "user123token"
     },
     {
       "key": "admin_token",
-      "value": "admin_token_here"
+      "value": "admin123456 "
     }
   ]
 }
